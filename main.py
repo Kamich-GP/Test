@@ -33,3 +33,5 @@ class Half_Defender(Player):
     def assist(self):
         print('Помог забить гол!')
 
+player1 = Atacker(96, 88, 76, 23)
+
